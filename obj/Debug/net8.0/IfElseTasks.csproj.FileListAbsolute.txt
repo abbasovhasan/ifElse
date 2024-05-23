@@ -1,0 +1,14 @@
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\bin\Debug\net8.0\IfElseTasks.exe
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\bin\Debug\net8.0\IfElseTasks.deps.json
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\bin\Debug\net8.0\IfElseTasks.runtimeconfig.json
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\bin\Debug\net8.0\IfElseTasks.dll
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\bin\Debug\net8.0\IfElseTasks.pdb
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\obj\Debug\net8.0\IfElseTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\obj\Debug\net8.0\IfElseTasks.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\obj\Debug\net8.0\IfElseTasks.AssemblyInfo.cs
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\obj\Debug\net8.0\IfElseTasks.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\obj\Debug\net8.0\IfElseTasks.dll
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\obj\Debug\net8.0\refint\IfElseTasks.dll
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\obj\Debug\net8.0\IfElseTasks.pdb
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\obj\Debug\net8.0\IfElseTasks.genruntimeconfig.cache
+C:\Users\abbas\source\repos\IfElseTasks\IfElseTasks\obj\Debug\net8.0\ref\IfElseTasks.dll
